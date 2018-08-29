@@ -1,1 +1,3 @@
 logging the messages
+
+Child is adding the text
