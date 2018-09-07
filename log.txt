@@ -1,3 +1,5 @@
 logging the messages
 
 Child is adding the text
+
+Child1 added the text
